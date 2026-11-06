@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/yale-termite-and-pest-elimination-corp-local-anosn/sitemap.xml
